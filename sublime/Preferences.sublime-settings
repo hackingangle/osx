@@ -1,0 +1,53 @@
+{
+	"always_show_minimap_viewport": false,
+	"auto_complete": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"expand_tabs_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc"
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__",
+		".svn",
+		"._*"
+	],
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 15.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 0,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"show_minimap": false,
+	"show_panel_on_build": false,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_simple_full_screen": true
+}
