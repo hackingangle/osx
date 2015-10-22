@@ -1,0 +1,14 @@
+# WangZiYi`s alias settings
+alias cdphp="cd ~/workspace/php"
+alias upcentos="cd ~/centos65;vagrant up"
+alias downcentos="cd ~/centos65;vagrant halt"
+alias reloadcentos="cd ~/centos65;vagrant reload"
+alias sshcentos="cd ~/centos65;vagrant ssh"
+alias sublime="open -a \"Sublime Text\""
+alias cdsublime="cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages"
+alias php53="/usr/local/Cellar/php53/5.3.29/bin/php"
+alias art="php artisan"
+
+# LARAVEL
+alias vaprobash="curl -L http://bit.ly/vaprobash > Vagrantfile"
+alias serve="php artisan serve"
